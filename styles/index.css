@@ -1,0 +1,604 @@
+.banxin {
+	width: 970px;
+	margin: 0 auto;
+}
+
+.section-1 {
+	background: rgba(20, 20, 20, 0.65) url(../images/world.png) center center no-repeat;
+	background-blend-mode: multiply;
+}
+
+.section-1 .banxin {
+	height: 990px;
+	padding-top: 200px;
+}
+
+.section-1 h1 {
+	color: #fff;
+	font-size: 62px;
+	margin: 0 auto 85px;
+}
+
+.section-1 h1+p {
+	color: rgba(255, 255, 255, 0.7);
+	font-size: 20px;
+	line-height: 32px;
+	width: 770px;
+	margin: 0 auto 100px;
+}
+
+.zhuce {
+	height: 250px;
+	padding-top: 50px;
+	border: 1px solid rgba(255, 255, 255, 0.2);
+	border-radius: 2px;
+}
+
+.zhuce h2 {
+	color: #fff;
+	letter-spacing: 2px;
+	margin: 0 auto 20px;
+	text-transform: uppercase;
+}
+
+.zhuce h2+p {
+	color: rgba(255, 255, 255, 0.3);
+	font-size: 12px;
+	letter-spacing: 0.1em;
+	margin: 0 auto 46px;
+	text-transform: uppercase;
+}
+
+.zhuce form {
+	padding-left: 100px;
+}
+
+.zhuce input {
+	float: left;
+	color: rgba(255, 255, 255, 0.2);
+	font-size: 14px;
+	width: 290px;
+	height: 50px;
+	margin-right: 30px;
+	padding-left: 1em;
+	border: 1px solid rgba(255, 255, 255, 0.2);
+	border-radius: 2px;
+	text-align: left;
+}
+
+.zhuce input:focus {
+	color: rgba(255, 255, 255, 1);
+}
+
+.zhuce button {
+	float: left;
+	color: rgba(255, 255, 255, 0.5);
+	font-size: 14px;
+	background: rgba(255, 255, 255, 0.1);
+	width: 128px;
+	height: 50px;
+	border: 1px solid rgba(255, 255, 255, 0.2);
+	border-radius: 2px;
+	text-transform: uppercase;
+}
+
+.zhuce button:hover {
+	color: #141414;
+	background: #fff;
+}
+
+.section-2 .banxin {
+	width: 1200px;
+	height: 710px;
+	padding-top: 84px;
+}
+
+.section-2 h2 {
+	font-size: 14px;
+	font-weight: bold;
+	letter-spacing: 0.1em;
+	margin: 0 auto 31px;
+	text-transform: uppercase;
+}
+
+.section-2 h2+p {
+	font-size: 42px;
+	line-height: 52px;
+	letter-spacing: -1px;
+	width: 660px;
+	margin: 0 auto 90px;
+}
+
+.youshi>div {
+	float: left;
+	background-position: top right 475px;
+	background-repeat: no-repeat;
+	width: 600px;
+	height: 167px;
+	padding: 0 90px 0 150px;
+}
+
+.youshi>div:nth-child(1) {
+	background-image: url(../images/iphone-icon.png);
+}
+
+.youshi>div:nth-child(2) {
+	background-image: url(../images/check-icon.png);
+}
+
+.youshi>div:nth-child(3) {
+	background-image: url(../images/pencil-icon.png);
+}
+
+.youshi>div:nth-child(4) {
+	background-image: url(../images/settings-icon.png);
+}
+
+.youshi>div h3 {
+	font-size: 20px;
+	font-weight: bold;
+	margin: 0 auto 22px;
+	text-align: left;
+}
+
+.youshi>div h3+p {
+	color: rgba(20, 20, 20, 0.7);
+	line-height: 26px;
+	text-align: left;
+}
+
+.section-3 {
+	background: rgba(20, 20, 20, 0.65) url(../images/forest.png) center center no-repeat;
+	background-blend-mode: multiply;
+	overflow: hidden;
+}
+
+.section-3 .banxin {
+	position: relative;
+	height: 800px;
+	padding-top: 178px;
+}
+
+.section-3 h2 {
+	color: #fff;
+	font-size: 42px;
+	line-height: 52px;
+	letter-spacing: -1px;
+	width: 370px;
+	margin-bottom: 36px;
+	text-align: left;
+}
+
+.section-3 h2+p {
+	color: rgba(255, 255, 255, 0.7);
+	font-size: 18px;
+	line-height: 28px;
+	letter-spacing: -1px;
+	width: 370px;
+	margin-bottom: 55px;
+	text-align: left;
+}
+
+.jueze button {
+	float: left;
+	color: #fff;
+	font-size: 12px;
+	letter-spacing: 0.1em;
+	width: 235px;
+	height: 60px;
+	margin-right: 30px;
+	border: 1px solid rgba(255, 255, 255, 0.3);
+	border-radius: 2px;
+	text-transform: uppercase;
+}
+
+.jueze button:hover {
+	color: #141414;
+	background: #fff;
+}
+
+.ipad-1 {
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(154px, -50%);
+	width: 840px;
+	height: 600px;
+	border: 1px solid rgba(255, 255, 255, 0.5);
+	border-radius: 40px;
+}
+
+.ipad-2 {
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(214px, -50%);
+	background: url(../images/ipad-screen.jpg) center left no-repeat;
+	width: 720px;
+	height: 540px;
+	border: 1px solid rgba(255, 255, 255, 0.5);
+}
+
+.ipad-3 {
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(184px, -50%);
+	width: 10px;
+	height: 10px;
+	border: 1px solid rgba(255, 255, 255, 0.5);
+	border-radius: 50%;
+}
+
+.section-4 {
+	border-bottom: 1px solid rgba(20, 20, 20, 0.1);
+}
+
+.section-4 .banxin {
+	height: 580px;
+	padding-top: 100px;
+}
+
+.section-4 h2 {
+	font-size: 42px;
+	margin: 0 auto 90px;
+}
+
+.rouxing {
+	display: flex;
+}
+
+.rouxing>div {
+	flex: 1;
+	color: rgba(20, 20, 20, 0.7);
+	line-height: 26px;
+	background-position: top center;
+	background-repeat: no-repeat;
+	margin-right: 80px;
+	padding-top: 75px;
+}
+
+.rouxing>div:last-child {
+	margin-right: 0;
+}
+
+.rouxing>div:nth-child(1) {
+	background-image: url(../images/singleton.png);
+}
+
+.rouxing>div:nth-child(2) {
+	background-image: url(../images/hero.png);
+}
+
+.rouxing>div:nth-child(3) {
+	background-image: url(../images/portland.png);
+}
+
+.section-5 {
+	border-bottom: 1px solid rgba(20, 20, 20, 0.1);
+}
+
+.section-5 .banxin {
+	height: 1000px;
+	padding-top: 114px;
+}
+
+.wenzhang {
+	margin: 0 auto 80px;
+}
+
+.wenzhang:first-child>div:first-child {
+	float: left;
+	background: url(../images/plant.jpg) center center no-repeat;
+}
+
+.wenzhang:first-child>div:last-child {
+	float: left;
+	margin-left: 100px;
+}
+
+.wenzhang:last-child>div:first-child {
+	float: right;
+	background-image: url(../images/bird.png);
+}
+
+.wenzhang:last-child>div:last-child {
+	float: right;
+	margin-right: 100px;
+}
+
+.wenzhang>div:first-child {
+	background-size: 570px;
+	background-position: center center;
+	background-repeat: no-repeat;
+	width: 570px;
+	height: 350px;
+}
+
+.wenzhang>div:last-child {
+	width: 300px;
+	padding-top: 30px;
+}
+
+.wenzhang>div:last-child h3 {
+	font-size: 20px;
+	line-height: 32px;
+	margin: 0 auto 23px;
+	text-align: left;
+}
+
+.wenzhang>div:last-child p {
+	color: rgba(20, 20, 20, 0.7);
+	line-height: 28px;
+	text-align: left;
+}
+
+.section-6 {
+	border-bottom: 1px solid rgba(20, 20, 20, 0.1);
+}
+
+.section-6 .banxin {
+	height: 1080px;
+	padding-top: 100px;
+}
+
+.section-6 h2 {
+	font-size: 42px;
+	margin: 0 auto 30px;
+}
+
+.section-6 h2+p {
+	color: rgba(20, 20, 20, 0.7);
+	font-size: 18px;
+	line-height: 28px;
+	width: 675px;
+	margin: 0 auto 60px;
+}
+
+.shejishi {
+	height: 710px;
+}
+
+.shejishi>div {
+	float: left;
+	background-position: top center;
+	background-repeat: no-repeat;
+	background-size: 520px;
+	width: 470px;
+	height: 340px;
+	margin: 0 30px 30px 0;
+}
+
+.shejishi>div:nth-child(2n) {
+	margin-right: 0;
+}
+
+.shejishi>div:nth-last-child(1),
+.shejishi>div:nth-last-child(2) {
+	margin-bottom: 0;
+}
+
+.shejishi>div:nth-child(1) {
+	background-image: url(../images/zhangsiyuan.jpg);
+}
+
+.shejishi>div:nth-child(2) {
+	background-image: url(../images/zhanfangxiao.jpg);
+}
+
+.shejishi>div:nth-child(3) {
+	background-image: url(../images/wenli.jpg);
+}
+
+.shejishi>div:nth-child(4) {
+	background-image: url(../images/shendashi.jpg);
+}
+
+.shejishi>div>div {
+	display: none;
+	background: rgba(20, 20, 20, 0.65);
+	height: 100%;
+	padding-top: 108px;
+}
+
+.shejishi>div:hover>div {
+	display: block;
+}
+
+.shejishi h3 {
+	color: #fff;
+	font-size: 20px;
+	margin: 0 auto 20px;
+}
+
+.shejishi p {
+	color: rgba(255, 255, 255, 0.4);
+	font-size: 12px;
+	margin: 0 auto 40px;
+}
+
+.shejishi>div>div>div {
+	width: 222px;
+	margin: 0 auto;
+}
+
+.shejishi button {
+	float: left;
+	color: #fff;
+	font-size: 20px;
+	width: 54px;
+	height: 54px;
+	margin-right: 30px;
+	border: 1px solid rgba(255, 255, 255, 0.2);
+	border-radius: 50%;
+}
+
+.shejishi button:last-child {
+	margin-right: 0;
+}
+
+.shejishi button:hover {
+	color: #141414;
+	background-color: #fff;
+}
+
+.section-7 {
+	border-bottom: 1px solid rgba(20, 20, 20, 0.1);
+}
+
+.section-7 .banxin {
+	height: 700px;
+	padding-top: 70px;
+}
+
+.section-7 form {
+	float: left;
+	width: 470px;
+	height: 557px;
+	margin-right: 130px;
+	padding-top: 50px;
+	border: 1px solid rgba(20, 20, 20, 0.1);
+	border-radius: 8px;
+}
+
+.section-7 form h3 {
+	font-weight: bold;
+	letter-spacing: 0.1em;
+	margin: 0 auto 47px;
+	text-transform: uppercase;
+}
+
+.section-7 form input,
+.section-7 form textarea {
+	color: rgba(20, 20, 20, 0.5);
+	font-size: 14px;
+	width: 370px;
+	margin: 0 auto 30px;
+	padding-left: 1em;
+	border: 1px solid rgba(38, 35, 33, 0.2);
+	border-radius: 2px;
+	text-align: left;
+}
+
+.section-7 form input {
+	height: 50px;
+}
+
+.section-7 form textarea {
+	line-height: 26px;
+	height: 144px;
+	padding-top: 11px;
+}
+
+.section-7 form button {
+	color: #fff;
+	font-size: 12px;
+	letter-spacing: 0.1em;
+	background: #141414;
+	width: 370px;
+	height: 50px;
+	margin: 0 auto;
+	border-radius: 2px;
+	text-transform: uppercase;
+}
+
+.lianxi {
+	float: left;
+	padding-top: 70px;
+}
+
+.lianxi h3 {
+	font-size: 42px;
+	font-weight: bold;
+	margin: 0 auto 50px;
+	text-align: left;
+}
+
+.lianxi p {
+	color: rgba(20, 20, 20, 0.7);
+	line-height: 26px;
+	width: 360px;
+	margin: 0 auto 68px;
+	text-align: left;
+}
+
+.lianxi>div {
+	line-height: 20px;
+	margin: 0 auto 40px;
+	text-align: left;
+}
+
+.lianxi .icon-map::before {
+	font-size: 40px;
+	margin-right: 10px;
+	vertical-align: -15px;
+}
+
+.lianxi .icon-phone::before {
+	font-size: 40px;
+	margin-right: 10px;
+	vertical-align: -15px;
+}
+
+.lianxi .icon-email::before {
+	font-size: 40px;
+	margin-right: 10px;
+	vertical-align: -15px;
+}
+
+.lianxi em {
+	float: right;
+	padding-right: 95px;
+	text-align: left;
+}
+
+.section-8 {
+	background: #141414;
+}
+
+.section-8 .banxin {
+	width: 1170px;
+	height: 410px;
+}
+
+.section-8 dl {
+	float: left;
+	width: 270px;
+	margin-right: 30px;
+	padding-top: 88px;
+}
+
+.section-8 dl:last-child {
+	margin-right: 0;
+}
+
+.section-8 dt {
+	color: #fff;
+	font-size: 14px;
+	letter-spacing: 0.1em;
+	margin: 0 auto 27px;
+	text-align: left;
+	text-transform: uppercase;
+}
+
+.section-8 dd {
+	color: rgba(255, 255, 255, 0.3);
+	line-height: 28px;
+	margin: 0 auto 21px;
+	text-align: left;
+}
+
+.section-8 dl:last-child dd {
+	color: rgba(255, 255, 255, 0.4);
+	font-size: 18px;
+	margin: 0 auto 35px;
+}
+
+.section-8 dl dt dd:last-child {
+	margin-bottom: 0;
+}
+
+.section-8 dl:last-child a {
+	font-size: 16px;
+	letter-spacing: 1.2em;
+}
